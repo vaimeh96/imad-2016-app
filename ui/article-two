@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Article-two | Vaibhav</title>
+        </head>
+        <meta name='viewport' content="width=device-width initial-scale=1"/>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>Article-two</h3>
+        <div>Sept 23,2016</div>
+        <div>This is the content for this article-two</div>
+    </body>    
+    
+    
+    
+    
+    
+</html>
