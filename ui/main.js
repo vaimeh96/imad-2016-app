@@ -1,9 +1,9 @@
 //counter code
 var button=document.getElementById('counter');
 button.onclick=function(){
-var request = new XMLhttpRequest();
+var request = new XMLHttpRequest();
 request.onreadystatechange=function(){
-    if(request.readystate===XMLhttpRequest.done){
+    if(request.readystate===XMLHttpRequest.done){
         if(request.status===200)
         {
             var counter=request.responseText;
