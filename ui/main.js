@@ -15,6 +15,7 @@ request.onreadystatechange=function(){
 };
 request.open('GET','http://vaimeh96.imad.hasura-app.io/counter',true);
 request.send(null);
+counter=counter+1;
 
 
     
