@@ -34,4 +34,4 @@ submit.onclick=function(){
     }
     var ul=document.getElementById('name-list');
     ul.innerHTML=list;
-}
+};
